@@ -1,0 +1,16 @@
+SUPPORT TICKET DATASET SUMMARY
+===================================
+Total rows: 600
+
+CATEGORY COUNTS
+account: 120
+billing: 120
+cancellation: 120
+shipping: 120
+technical: 120
+
+PRIORITY COUNTS
+high: 200
+low: 200
+medium: 200
+

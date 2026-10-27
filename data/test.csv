@@ -1,0 +1,91 @@
+text,category,priority
+the parcel arrived with damaged packaging. i need assistance within the next few hours. support request identifier 0404.,shipping,medium
+the parcel arrived with damaged packaging. i need assistance within the next few hours. support request identifier 0416.,shipping,medium
+i receive an error when saving my settings. i need assistance within the next few hours. support request identifier 0184.,technical,medium
+i am unable to verify my email address. i would appreciate a routine update. support request identifier 0268.,account,low
+my invoice shows an incorrect payment amount. please escalate this incident immediately. support request identifier 0100.,billing,high
+my profile details are not updating. there is no immediate urgency. reference case 0245.,account,low
+please stop the renewal of my current plan. this is affecting my regular work. customer reports issue number 0522.,cancellation,medium
+my package has not arrived on the expected date. this can wait until the next business day. ticket reference 0391.,shipping,low
+my account has been locked unexpectedly. i need this resolved soon. reference case 0289.,account,medium
+my cancellation request has not been processed. please escalate this incident immediately. support request identifier 0588.,cancellation,high
+i want confirmation that my plan is cancelled. there is no immediate urgency. reference case 0485.,cancellation,low
+the payment failed but money was deducted. this is affecting my regular work. customer reports issue number 0074.,billing,medium
+the application is extremely slow today. critical issue requiring immediate attention. customer reports issue number 0222.,technical,high
+the website displays an unexpected error. i need this resolved soon. reference case 0181.,technical,medium
+my account has been locked unexpectedly. please investigate and respond today. ticket reference 0307.,account,medium
+please provide an update about my delivery. please review this when convenient. customer reports issue number 0366.,shipping,low
+i receive an error when saving my settings. please review this when convenient. customer reports issue number 0150.,technical,low
+the website displays an unexpected error. there is no immediate urgency. reference case 0129.,technical,low
+my invoice shows an incorrect payment amount. i would appreciate a routine update. support request identifier 0020.,billing,low
+my profile details are not updating. my business operations are stopped. ticket reference 0331.,account,high
+the latest update broke a feature. there is no immediate urgency. reference case 0149.,technical,low
+the tracking page shows no delivery updates. critical issue requiring immediate attention. customer reports issue number 0454.,shipping,high
+my cancellation request has not been processed. please review this when convenient. customer reports issue number 0514.,cancellation,low
+the latest update broke a feature. there is no immediate urgency. reference case 0125.,technical,low
+i need to cancel my recent order. i need this resolved soon. reference case 0529.,cancellation,medium
+i want to cancel my subscription. i need this resolved soon. reference case 0545.,cancellation,medium
+my order was delivered to the wrong address. urgent: this is blocking my work completely. reference case 0449.,shipping,high
+the application crashes whenever i open it. this can wait until the next business day. ticket reference 0127.,technical,low
+my package has not arrived on the expected date. there is no immediate urgency. reference case 0385.,shipping,low
+my subscription renewal amount looks incorrect. please review this when convenient. customer reports issue number 0030.,billing,low
+please explain the cancellation policy. critical issue requiring immediate attention. customer reports issue number 0590.,cancellation,high
+please help me reset my password. critical issue requiring immediate attention. customer reports issue number 0346.,account,high
+i received the wrong item in my shipment. there is no immediate urgency. reference case 0377.,shipping,low
+the payment failed but money was deducted. please review this when convenient. customer reports issue number 0010.,billing,low
+i want confirmation that my plan is cancelled. please investigate and respond today. ticket reference 0543.,cancellation,medium
+please explain the cancellation policy. i would appreciate a routine update. support request identifier 0492.,cancellation,low
+my package has not arrived on the expected date. urgent: this is blocking my work completely. reference case 0477.,shipping,high
+the payment failed but money was deducted. this is affecting my regular work. customer reports issue number 0050.,billing,medium
+i want confirmation that my plan is cancelled. my business operations are stopped. ticket reference 0571.,cancellation,high
+please explain the extra fee on my account. this can wait until the next business day. ticket reference 0035.,billing,low
+i need to cancel my recent order. i need this resolved soon. reference case 0553.,cancellation,medium
+i want confirmation that my plan is cancelled. there is no immediate urgency. reference case 0509.,cancellation,low
+i received the wrong item in my shipment. please investigate and respond today. ticket reference 0435.,shipping,medium
+i was charged twice for my monthly subscription. there is no immediate urgency. reference case 0013.,billing,low
+my cancellation request has not been processed. i would appreciate a routine update. support request identifier 0484.,cancellation,low
+please explain the extra fee on my account. urgent: this is blocking my work completely. reference case 0109.,billing,high
+the application is extremely slow today. i need assistance within the next few hours. support request identifier 0200.,technical,medium
+the parcel arrived with damaged packaging. please escalate this incident immediately. support request identifier 0468.,shipping,high
+the parcel arrived with damaged packaging. please escalate this incident immediately. support request identifier 0444.,shipping,high
+i am unable to verify my email address. this is affecting my regular work. customer reports issue number 0290.,account,medium
+the latest update broke a feature. my business operations are stopped. ticket reference 0235.,technical,high
+two factor authentication is not working. please review this when convenient. customer reports issue number 0246.,account,low
+i cannot log in to my account. there is no immediate urgency. reference case 0265.,account,low
+i cannot upload a file to the dashboard. please escalate this incident immediately. support request identifier 0232.,technical,high
+i cannot upload a file to the dashboard. please review this when convenient. customer reports issue number 0122.,technical,low
+i was charged twice for my monthly subscription. urgent: this is blocking my work completely. reference case 0117.,billing,high
+i cannot log in to my account. i need this resolved soon. reference case 0293.,account,medium
+the application is extremely slow today. this is affecting my regular work. customer reports issue number 0170.,technical,medium
+i am unable to verify my email address. please escalate this incident immediately. support request identifier 0324.,account,high
+i receive an error when saving my settings. critical issue requiring immediate attention. customer reports issue number 0230.,technical,high
+my package has not arrived on the expected date. please investigate and respond today. ticket reference 0407.,shipping,medium
+i want to cancel my subscription. urgent: this is blocking my work completely. reference case 0561.,cancellation,high
+please provide an update about my delivery. please review this when convenient. customer reports issue number 0390.,shipping,low
+the application crashes whenever i open it. i need this resolved soon. reference case 0173.,technical,medium
+the payment failed but money was deducted. i need assistance within the next few hours. support request identifier 0044.,billing,medium
+the application crashes whenever i open it. my business operations are stopped. ticket reference 0219.,technical,high
+the parcel arrived with damaged packaging. i would appreciate a routine update. support request identifier 0388.,shipping,low
+my account has been locked unexpectedly. please investigate and respond today. ticket reference 0283.,account,medium
+my invoice shows an incorrect payment amount. please review this when convenient. customer reports issue number 0014.,billing,low
+i want to cancel my subscription. urgent: this is blocking my work completely. reference case 0573.,cancellation,high
+please explain the extra fee on my account. i need this resolved soon. reference case 0045.,billing,medium
+i received the wrong item in my shipment. i need this resolved soon. reference case 0429.,shipping,medium
+i receive an error when saving my settings. critical issue requiring immediate attention. customer reports issue number 0206.,technical,high
+i need help with a refund for my recent purchase. please investigate and respond today. ticket reference 0043.,billing,medium
+i want to cancel my subscription. please investigate and respond today. ticket reference 0539.,cancellation,medium
+i was charged twice for my monthly subscription. my business operations are stopped. ticket reference 0111.,billing,high
+i was charged twice for my monthly subscription. urgent: this is blocking my work completely. reference case 0093.,billing,high
+my profile details are not updating. urgent: this is blocking my work completely. reference case 0325.,account,high
+i cannot upload a file to the dashboard. this is affecting my regular work. customer reports issue number 0186.,technical,medium
+the payment failed but money was deducted. please escalate this incident immediately. support request identifier 0096.,billing,high
+my profile details are not updating. this can wait until the next business day. ticket reference 0251.,account,low
+the payment failed but money was deducted. i need assistance within the next few hours. support request identifier 0080.,billing,medium
+my cancellation request has not been processed. please escalate this incident immediately. support request identifier 0600.,cancellation,high
+my order was delivered to the wrong address. i need this resolved soon. reference case 0421.,shipping,medium
+two factor authentication is not working. i would appreciate a routine update. support request identifier 0264.,account,low
+please stop the renewal of my current plan. i would appreciate a routine update. support request identifier 0512.,cancellation,low
+my account has been locked unexpectedly. my business operations are stopped. ticket reference 0335.,account,high
+two factor authentication is not working. critical issue requiring immediate attention. customer reports issue number 0338.,account,high
+please provide an update about my delivery. critical issue requiring immediate attention. customer reports issue number 0446.,shipping,high
+i am unable to verify my email address. i need assistance within the next few hours. support request identifier 0296.,account,medium
